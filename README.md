@@ -1,1 +1,1 @@
-upguide-formations-gratuites-marketing-digital.index.html
+guide-formations-gratuites-marketing-digital.html
